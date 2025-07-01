@@ -1,7 +1,6 @@
 # fastlink的最新地址
 
-最新地址：[flcn.cc](https://www.flcn.cc/auth/register?code=EyuI)
-
+最新地址：[flcn.cc](https://flafflnk01.flaff9.cc/auth/register?code=H4NpEZt2)
 ## fastlink简介
 
 * 节点速度高达2Gbps，秒开4k、支持8K
